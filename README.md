@@ -1,2 +1,3 @@
 # toys
-お遊び
+お遊びで作っているだけです．
+That is a piece of cake.
